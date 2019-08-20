@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="assets"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/kirpich-core"/>
+	<classpathentry exported="true" kind="lib" path="/kirpich-core/DesktopLib/gdx-1.9.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="/kirpich-core/DesktopLib/gdx-backend-lwjgl-1.9.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="/kirpich-core/DesktopLib/gdx-platform-1.9.3-natives-desktop.jar"/>
+	<classpathentry exported="true" kind="lib" path="/kirpich-core/DesktopLib/jinput-2.0.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="/kirpich-core/DesktopLib/jinput-platform-2.0.5-natives-linux.jar"/>
+	<classpathentry exported="true" kind="lib" path="/kirpich-core/DesktopLib/jinput-platform-2.0.5-natives-osx.jar"/>
+	<classpathentry exported="true" kind="lib" path="/kirpich-core/DesktopLib/jinput-platform-2.0.5-natives-windows.jar"/>
+	<classpathentry exported="true" kind="lib" path="/kirpich-core/DesktopLib/jlayer-1.0.1-gdx.jar"/>
+	<classpathentry exported="true" kind="lib" path="/kirpich-core/DesktopLib/jorbis-0.0.17.jar"/>
+	<classpathentry exported="true" kind="lib" path="/kirpich-core/DesktopLib/jutils-1.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="/kirpich-core/DesktopLib/lwjgl_util-2.9.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="/kirpich-core/DesktopLib/lwjgl-2.9.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="/kirpich-core/DesktopLib/lwjgl-platform-2.9.2-natives-linux.jar"/>
+	<classpathentry exported="true" kind="lib" path="/kirpich-core/DesktopLib/lwjgl-platform-2.9.2-natives-osx.jar"/>
+	<classpathentry exported="true" kind="lib" path="/kirpich-core/DesktopLib/lwjgl-platform-2.9.2-natives-windows.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
